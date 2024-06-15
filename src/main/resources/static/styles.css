@@ -1,0 +1,44 @@
+#name-from{
+    height: 100vh;
+    }
+
+body {
+    background-image: url(background.png);
+    color: white;
+}
+.card {
+    background-color: white;
+    color: black;
+}
+.input-group-append .btn {
+    border-color: #6c757d;
+}
+#message-container-table {
+    width: 100%;
+}
+#message-container-table tr td {
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+.message {
+    word-wrap: break-word;
+}
+.message .user {
+    font-weight: bold;
+}
+.message .text {
+    margin-left: 10px;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: #343a40;
+    color: #adb5bd;
+}
