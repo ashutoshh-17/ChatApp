@@ -1,4 +1,4 @@
-# ChatApp README
+# ChatApp
 
 ## Project Overview
 
